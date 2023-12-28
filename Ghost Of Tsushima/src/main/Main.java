@@ -11,7 +11,7 @@ public class Main {
         window = new JFrame();
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         window.setResizable(false); // Cant Resizable
-        window.setTitle("Blue Boy Adventure\n"); // Window Name
+        window.setTitle("Ghost of Tsushima\n"); // Window Name
         new Main().setIcon();
         GamePanel gamePanel = new GamePanel();
         window.add(gamePanel);

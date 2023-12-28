@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="starbird">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/starbird/Beta 1.2 Starbird.jar!/" />
+      <root url="jar://$PROJECT_DIR$/starbird/Beta 1.2.1 Starbird.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,1 @@
+The main and last part of the game is in the main file, and finally we converted the java files into a jar file as a concept
